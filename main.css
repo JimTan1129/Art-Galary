@@ -1,4 +1,5 @@
 img {
   height: 300px;
-  border-color: black;
+  border: 300;
+  width: 200px;
 }
